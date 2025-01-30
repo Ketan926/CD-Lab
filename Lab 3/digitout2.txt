@@ -1,0 +1,119 @@
+<'int', 1, 1, 'Keyword'>
+<'main', 1, 5, 'Identifier'>
+<'(', 1, 9, 'Special Symbol'>
+<')', 1, 10, 'Special Symbol'>
+<'{', 2, 1, 'Special Symbol'>
+<'int', 3, 2, 'Keyword'>
+<'a', 3, 6, 'Identifier'>
+<'=', 3, 7, 'Special Symbol'>
+<'20', 3, 7, 'Numeric'>
+<'int', 4, 2, 'Keyword'>
+<'b', 4, 6, 'Identifier'>
+<'=', 4, 7, 'Special Symbol'>
+<'10', 4, 7, 'Numeric'>
+<'int', 5, 2, 'Keyword'>
+<'c', 5, 6, 'Identifier'>
+<'=', 5, 7, 'Special Symbol'>
+<'0', 5, 7, 'Numeric'>
+<'d', 5, 9, 'Identifier'>
+<'=', 5, 10, 'Special Symbol'>
+<'0', 5, 10, 'Numeric'>
+<'printf', 6, 2, 'Identifier'>
+<'(', 6, 8, 'Special Symbol'>
+<'"Sample Problem\n"', 6, 8, 'String Literal'>
+<')', 6, 27, 'Special Symbol'>
+<';', 6, 28, 'Special Symbol'>
+<'if', 7, 2, 'Keyword'>
+<'(', 7, 4, 'Special Symbol'>
+<'a', 7, 5, 'Identifier'>
+<'>', 7, 6, 'Special Symbol'>
+<'=', 7, 7, 'Special Symbol'>
+<'b', 7, 8, 'Identifier'>
+<')', 7, 9, 'Special Symbol'>
+<'{', 8, 2, 'Special Symbol'>
+<'c', 9, 2, 'Identifier'>
+<'=', 9, 3, 'Special Symbol'>
+<'b', 9, 4, 'Identifier'>
+<'*', 9, 5, 'Special Symbol'>
+<'2', 9, 5, 'Numeric'>
+<'d', 10, 2, 'Identifier'>
+<'=', 10, 3, 'Special Symbol'>
+<'a', 10, 4, 'Identifier'>
+<'/', 10, 5, 'Special Symbol'>
+<'2', 10, 5, 'Numeric'>
+<'}', 11, 2, 'Special Symbol'>
+<'else', 12, 2, 'Keyword'>
+<'if', 12, 7, 'Keyword'>
+<'(', 12, 9, 'Special Symbol'>
+<'a', 12, 10, 'Identifier'>
+<'<', 12, 11, 'Special Symbol'>
+<'=', 12, 12, 'Special Symbol'>
+<'b', 12, 13, 'Identifier'>
+<')', 12, 14, 'Special Symbol'>
+<'{', 13, 2, 'Special Symbol'>
+<'c', 14, 2, 'Identifier'>
+<'=', 14, 3, 'Special Symbol'>
+<'b', 14, 4, 'Identifier'>
+<'+', 14, 5, 'Special Symbol'>
+<'2', 14, 5, 'Numeric'>
+<'d', 15, 2, 'Identifier'>
+<'=', 15, 3, 'Special Symbol'>
+<'a', 15, 4, 'Identifier'>
+<'-', 15, 5, 'Special Symbol'>
+<'2', 15, 5, 'Numeric'>
+<'}', 16, 2, 'Special Symbol'>
+<'else', 17, 2, 'Keyword'>
+<'if', 17, 7, 'Keyword'>
+<'(', 17, 9, 'Special Symbol'>
+<'a', 17, 10, 'Identifier'>
+<'=', 17, 11, 'Special Symbol'>
+<'=', 17, 12, 'Special Symbol'>
+<'b', 17, 13, 'Identifier'>
+<')', 17, 14, 'Special Symbol'>
+<'{', 18, 2, 'Special Symbol'>
+<'c', 19, 2, 'Identifier'>
+<'=', 19, 3, 'Special Symbol'>
+<'a', 19, 4, 'Identifier'>
+<'+', 19, 5, 'Special Symbol'>
+<'b', 19, 6, 'Identifier'>
+<'-', 19, 7, 'Special Symbol'>
+<'2', 19, 7, 'Numeric'>
+<'d', 20, 2, 'Identifier'>
+<'=', 20, 3, 'Special Symbol'>
+<'b', 20, 4, 'Identifier'>
+<'-', 20, 5, 'Special Symbol'>
+<'a', 20, 6, 'Identifier'>
+<'+', 20, 7, 'Special Symbol'>
+<'10', 20, 7, 'Numeric'>
+<'}', 21, 2, 'Special Symbol'>
+<'else', 22, 2, 'Keyword'>
+<'if', 22, 7, 'Keyword'>
+<'(', 22, 9, 'Special Symbol'>
+<'a', 22, 10, 'Identifier'>
+<'=', 22, 11, 'Special Symbol'>
+<'b', 22, 12, 'Identifier'>
+<')', 22, 13, 'Special Symbol'>
+<'{', 23, 2, 'Special Symbol'>
+<'if', 24, 2, 'Keyword'>
+<'(', 24, 4, 'Special Symbol'>
+<'c', 24, 5, 'Identifier'>
+<'>', 24, 6, 'Special Symbol'>
+<'d', 24, 7, 'Identifier'>
+<')', 24, 8, 'Special Symbol'>
+<'{', 25, 2, 'Special Symbol'>
+<'d', 26, 2, 'Identifier'>
+<'=', 26, 3, 'Special Symbol'>
+<'d', 26, 4, 'Identifier'>
+<'+', 26, 5, 'Special Symbol'>
+<'5', 26, 5, 'Numeric'>
+<'}', 27, 2, 'Special Symbol'>
+<'else', 28, 2, 'Keyword'>
+<'{', 29, 2, 'Special Symbol'>
+<'c', 30, 2, 'Identifier'>
+<'=', 30, 3, 'Special Symbol'>
+<'c', 30, 4, 'Identifier'>
+<'+', 30, 5, 'Special Symbol'>
+<'5', 30, 5, 'Numeric'>
+<'}', 31, 2, 'Special Symbol'>
+<'}', 32, 2, 'Special Symbol'>
+<'}', 33, 1, 'Special Symbol'>
