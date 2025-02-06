@@ -1,0 +1,25 @@
+Symbol Table:
+Name		Type		Size
+main		IDENTIFIER		-1
+;		SPECIAL			-1
+=		SPECIAL			-1
+{		SPECIAL			-1
+if		KEYWORD			-1
+"		SPECIAL			-1
+int		KEYWORD			-1
+}		SPECIAL			-1
+a		IDENTIFIER		-1
+Problem		IDENTIFIER		-1
+b		IDENTIFIER		-1
+Sample		IDENTIFIER		-1
+c		IDENTIFIER		-1
+d		IDENTIFIER		-1
+)		SPECIAL			-1
+0		NUMERIC			-1
+n		IDENTIFIER		-1
+2		NUMERIC			-1
+10		NUMERIC			-1
+printf		IDENTIFIER		-1
+else		KEYWORD			-1
+5		NUMERIC			-1
+20		NUMERIC			-1
