@@ -1,0 +1,38 @@
+int main()
+{
+ int a12_23=20;
+ int bbbd=10;
+ int c4ws=0,d=0;
+ int z[10];
+ char urud[5];
+ char eq2qw;
+ float f,g,h; 
+ printf("Sample Problem\n");
+ if(a12_23>=bbbd)
+ {
+ c4ws=bbbd*2;
+ d=a12_23/2;
+ }
+ else if(a12_23<=bbbd)
+ {
+ c4ws=bbbd+2;
+ d=a12_23-2;
+ }
+ else if(a12_23==bbbd)
+ {
+ c4ws=a12_23+bbbd-2;
+ d=bbbd-a12_23+10;
+ }
+ 
+ else if(a12_23!=bbbd)
+ {
+ if(c4ws>d)
+ {
+ d=d+5;
+  }
+ else
+ {
+ c4ws=c4ws+5;
+ }
+ }
+}

@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<ctype.h>
+int main()
+{
+    printf("Hello World\n");
+    printf("I am Ketan\n");
+    printf("Welcome to Manipal\n");
+    return 0;
+}

@@ -1,0 +1,19 @@
+#include<stdio.h>
+#include<stdio.h>
+#include<stdlib.h>
+#include<stdlib.h>
+#include<ctype.h>
+#include<ctype.h>
+int main()
+int main()
+{
+{
+    printf("Hello World\n");
+    printf("Hello World\n");
+    printf("I am Ketan\n");
+    printf("I am Ketan\n");
+    printf("Welcome to Manipal\n");
+    printf("Welcome to Manipal\n");
+    return 0;
+    return 0;
+}}
