@@ -1,0 +1,18 @@
+#!/bin/bash
+# This is a sample shell script.
+
+# Function defined using the "function" keyword.
+function greet {
+    echo "Hello, $USER"
+}
+
+# A function defined without the keyword will NOT be captured by this demo.
+hello_world() {
+    echo "World"
+}
+
+# Another function using the "function" keyword.
+function add {
+    result=$(($1 + $2))
+    echo $result
+}

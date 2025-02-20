@@ -1,0 +1,17 @@
+package myexample;
+import java.util.*;
+
+public class Test {
+    /* This is a multi-line comment.
+       It should be removed.
+    */
+    // Single-line comment
+
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+    
+    public int multiply(int x, int y) {
+        return x * y;
+    }
+}

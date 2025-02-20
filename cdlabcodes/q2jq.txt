@@ -1,0 +1,17 @@
+#!/usr/bin/env node
+// This is a sample jQuery file
+
+// A standard jQuery call using $
+$(document).ready(function(){
+    $("#myDiv").fadeIn();
+});
+
+// A jQuery call using the alias
+jQuery(function(){
+    console.log("Hello, jQuery!");
+});
+
+// A normal function declaration
+function customFunc(param) {
+    return param * 2;
+}

@@ -1,0 +1,12 @@
+#!/usr/bin/env node
+// This is a sample JavaScript file
+
+function greet(name) {
+    console.log("Hello, " + name);
+}
+
+function add(a, b) {
+    return a + b;
+}
+
+var x = 10;

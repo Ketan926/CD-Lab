@@ -1,0 +1,17 @@
+<?php
+// Single-line comment using //
+# Single-line comment using #
+/* Multi-line
+   comment should be skipped.
+*/
+
+function greet($name) {
+    echo "Hello, " . $name;
+}
+
+function add($a, $b) {
+    return $a + $b;
+}
+
+echo "This is PHP code!";
+?>
