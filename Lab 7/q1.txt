@@ -1,0 +1,14 @@
+Program -> main() { declaration assign_stat }
+declarations -> data-type identifier-list; declarations | E
+data-type -> int | char
+identifier0list -> id | id, identifier-list
+assign_stat -> id=id | id=num;
+
+
+Program -> main() { declaration assign_stat }
+declarations -> data_type identifier_list; declarations | E
+data_type -> int | char
+identifier_list -> A' | A', identifier_list 
+A' -> id
+assign_stat -> B'id | B'num;
+B' -> id=

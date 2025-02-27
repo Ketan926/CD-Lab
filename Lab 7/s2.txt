@@ -1,0 +1,22 @@
+<1, 'int', 1, 1, 'Keyword'>
+<2, 'main', 1, 6, 'Identifier'>
+<3, '(', 1, 11, 'Parenthesis'>
+<4, ')', 1, 12, 'Parenthesis'>
+<5, '{', 2, 1, 'Parenthesis'>
+<6, 'int', 3, 2, 'Keyword'>
+<7, 'a', 3, 7, 'Identifier'>
+<8, ',', 3, 9, 'colon'>
+<9, 'c', 3, 10, 'Identifier'>
+<10, ';', 3, 12, 'semi colon'>
+<11, 'char', 4, 2, 'Keyword'>
+<12, 'b', 4, 8, 'Identifier'>
+<13, ';', 4, 10, 'semi colon'>
+<14, 'a', 5, 2, 'Identifier'>
+<15, '=', 5, 4, 'Assignment Op'>
+<16, '10', 5, 5, 'Numeric'>
+<17, ';', 5, 8, 'semi colon'>
+<18, 'c', 6, 2, 'Identifier'>
+<19, '=', 6, 4, 'Assignment Op'>
+<20, 'a', 6, 5, 'Identifier'>
+<21, ';', 6, 7, 'semi colon'>
+<22, '}', 7, 1, 'Parenthesis'>
