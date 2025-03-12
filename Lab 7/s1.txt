@@ -1,7 +1,0 @@
-int main()
-{
- int a,c;
- char b;
- a=10;
- c=a;
-}
