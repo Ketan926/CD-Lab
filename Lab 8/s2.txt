@@ -1,0 +1,49 @@
+<1, 'int', 1, 1, 'Keyword'>
+<2, 'main', 1, 6, 'Identifier'>
+<3, '(', 1, 11, 'Parenthesis'>
+<4, ')', 1, 12, 'Parenthesis'>
+<5, '{', 1, 14, 'Parenthesis'>
+<6, 'int', 2, 5, 'Keyword'>
+<7, 'a', 2, 10, 'Identifier'>
+<8, ',', 2, 12, 'comma'>
+<9, 'b', 2, 14, 'Identifier'>
+<10, '[', 2, 16, 'Parenthesis'>
+<11, '10', 2, 17, 'Numeric'>
+<12, ']', 2, 18, 'Parenthesis'>
+<13, ';', 2, 19, 'semi colon'>
+<14, 'char', 3, 5, 'Keyword'>
+<15, 'c', 3, 11, 'Identifier'>
+<16, ';', 3, 13, 'semi colon'>
+<17, 'a', 5, 5, 'Identifier'>
+<18, '=', 5, 8, 'Assignment Op'>
+<19, '5', 5, 10, 'Numeric'>
+<20, ';', 5, 12, 'semi colon'>
+<21, 'b', 6, 5, 'Identifier'>
+<22, '[', 6, 7, 'Parenthesis'>
+<23, '2', 6, 8, 'Numeric'>
+<24, ']', 6, 9, 'Parenthesis'>
+<25, '=', 6, 11, 'Assignment Op'>
+<26, 'a', 6, 13, 'Identifier'>
+<27, '+', 6, 16, 'Arithmetic Op'>
+<28, '3', 6, 18, 'Numeric'>
+<29, ';', 6, 20, 'semi colon'>
+<30, 'if', 8, 5, 'Keyword'>
+<31, '(', 8, 9, 'Parenthesis'>
+<32, 'a', 8, 10, 'Identifier'>
+<33, '<', 8, 13, 'Relational Op'>
+<34, '10', 8, 15, 'Numeric'>
+<35, ')', 8, 18, 'Parenthesis'>
+<36, '{', 8, 20, 'Parenthesis'>
+<37, 'c', 9, 9, 'Identifier'>
+<38, '=', 9, 12, 'Assignment Op'>
+<39, '10', 9, 14, 'Numeric'>
+<40, ';', 9, 17, 'semi colon'>
+<41, '}', 10, 5, 'Parenthesis'>
+<42, 'else', 10, 7, 'Keyword'>
+<43, '{', 10, 13, 'Parenthesis'>
+<44, 'c', 11, 9, 'Identifier'>
+<45, '=', 11, 12, 'Assignment Op'>
+<46, '20', 11, 14, 'Numeric'>
+<47, ';', 11, 17, 'semi colon'>
+<48, '}', 12, 5, 'Parenthesis'>
+<49, '}', 13, 1, 'Parenthesis'>

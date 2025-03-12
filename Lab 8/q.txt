@@ -1,0 +1,19 @@
+Program -> main() { declarations statement_list }
+Declarations -> data_type identifier_list; declarations | E
+data_type -> int | char
+identifier_list -> id | id, identifier_list | id[number]| id[number], identifier_list
+statement_list -> statement statement_list | E
+statement -> assign_stat; | decision_stat
+assign_stat -> id=expn
+expn -> simple_expn eprime
+eprime -> relop simple_expn | E
+simple_expn -> term seprime
+seprime -> addop term seprime | E
+term -> factor tprime
+tprime -> mulop factor tprime | E
+factor -> id | num
+decision_stat -> if ( expn ) { statement_list } dprime
+dprime -> else { statement_list } | E
+relop -> == | != | >= | <= | > | <
+addop -> + | -
+mulop -> * | / | %
