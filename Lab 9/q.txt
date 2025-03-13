@@ -1,0 +1,20 @@
+Develop an SLR(1) parser for the given expression grammar and demonstrate parsing actions.
+E->E+T|T
+T-> T*F|F
+F-> ( E )|id
+
+E' -> E
+E -> E+T
+E -> T
+T -> T*F
+T -> F
+F -> ( E )
+F -> id
+
+E' -> .E
+E -> .E+T
+E -> .T
+T -> .T*F
+T -> .F
+F -> .( E )
+F -> .id
